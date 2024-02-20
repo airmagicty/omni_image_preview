@@ -2,8 +2,8 @@
 // @name         Omni Image Preview
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  ;)
-// @author       You
+// @description  https://greasyfork.org/ru/scripts/487845-omni-image-preview
+// @author       I AM CHILLING
 // @match        https://omni.top-academy.ru/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=top-academy.ru
 // @grant        none
